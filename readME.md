@@ -2,10 +2,10 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I craft software.
+    :wave: Hi! I craft software
   </samp>
 </p>
-  <br><br>
+  <br>
 
 ### 👦 Profile
 - More than 6+ years of expirience crafting scalable, secure and good quality software
