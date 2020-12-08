@@ -8,7 +8,7 @@
   <br>
 
 ### 👦 Profile
-- More than 6+ years of expirience crafting scalable, secure and good quality software
+- More than 6+ years of experience crafting scalable, secure and good quality software
 - Managed a team of 16+ software developers to build and scale all Fandango Latam's products
 - Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than 400K+ downloads
 
