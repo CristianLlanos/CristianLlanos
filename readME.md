@@ -8,14 +8,14 @@
   <br>
 
 ### 👦 Profile
-- +6 years of experience crafting scalable, secure and good quality software
-- Managed a team of 16+ software developers to build and scale all Fandango Latam's products
+- +6 years of experience crafting scalable, secure and maintainable software
+- Managed an amazing team of 16+ software developers that built and scaled [Fandango Latam](http://www.fandango.lat)
 - Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than 400K+ downloads
 
 ### 👨‍💻 Main skills
-- PHP, JavaScript, Laravel, VueJS, AWS
+- PHP, JavaScript, Laravel, VueJS, AWS, Tech Leadership
 
-### 📩 contact
+### 📩 Contact
 - 😀 [LinkedIn](https://linkedin.com/in/cristian-llanos)
 - <img src="https://emojis.slackmojis.com/emojis/images/1582776773/7926/twitter.png?1582776773" width="16px"> [Twitter](https://twitter.com/cris_decode)
 - <img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" width="16px"> [GitHub](https://github.com/CristianLlanos)
