@@ -8,9 +8,9 @@
   <br>
 
 ### 👦 Profile
-- +6 years of experience crafting scalable, secure and maintainable software
-- Managed an amazing team of +16 software developers that built and scaled [Fandango Latam](http://www.fandango.lat)
-- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +400K downloads
+- +7 years of experience crafting scalable, secure and maintainable software
+- +6 years leading and coaching technology teams
+- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +600K downloads
 
 ### 👨‍💻 Main skills
 - PHP, JavaScript, Laravel, VueJS, AWS, Tech Leadership
