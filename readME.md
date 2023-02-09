@@ -8,12 +8,12 @@
   <br>
 
 ### 👦 Profile
-- +7 years of experience crafting scalable, secure and maintainable software
-- +6 years leading and coaching technology teams
-- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +600K downloads
+- +8 years of experience crafting scalable, secure and maintainable software
+- +7 years leading and coaching technology teams
+- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +1MM downloads
 
 ### 👨‍💻 Main skills
-- PHP, JavaScript, Laravel, VueJS, AWS, Tech Leadership
+- TypeScript, PHP, NodeJS, NestJS, ReactJS, Laravel, VueJS, AWS, Tech Leadership
 
 ### 📩 Contact
 - 😀 [LinkedIn](https://linkedin.com/in/cristian-llanos)
