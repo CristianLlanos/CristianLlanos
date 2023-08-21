@@ -10,7 +10,7 @@
 ### 👦 Profile
 - +8 years of experience crafting scalable, secure and maintainable software
 - +7 years leading and coaching technology teams
-- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +1MM downloads
+- Author of [reliese/laravel](https://github.com/reliese/laravel) a Laravel model generator with more than +1M downloads
 
 ### 👨‍💻 Main skills
 - TypeScript, PHP, NodeJS, NestJS, ReactJS, Laravel, VueJS, AWS, Tech Leadership
